@@ -1,3 +1,3 @@
 # create_Cv
 
-usin Html5 , CSS3 , JAVASCRIPT
+using Html5 , CSS3 , JAVASCRIPT
